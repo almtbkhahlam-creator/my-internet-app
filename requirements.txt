@@ -1,4 +1,6 @@
 streamlit
-speedtest-cli
-psutil
+pdf2docx
 pandas
+openpyxl
+PyPDF2
+python-docx
